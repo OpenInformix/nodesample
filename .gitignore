@@ -59,3 +59,25 @@ typings/
 
 # next.js build output
 .next
+
+
+
+package-lock.json
+
+#vs Code IDE configuration files
+.vscode
+.vs
+*.VC.db
+
+
+**/*.map
+**/node_modules
+
+build
+try
+try/**
+
+# app.js
+MyConfig.json
+
+
